@@ -1,0 +1,18 @@
+Package: BasisGraphicalLasso
+Title: Basis Graphical Lasso
+Version: 0.1
+Authors@R: 
+    person(given = "Mitchell",
+           family = "Krock",
+           role = c("aut", "cre"),
+           email = "mitchell.krock@colorado.edu",
+           comment = c(ORCID ="0000-0002-1628-1842"))
+Description: Estimates a (sparse) precision matrix for the coefficients of the basis functions in the basis graphical model.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Depends: 
+    QUIC,
+    LatticeKrig,
+    R (>= 2.10)
