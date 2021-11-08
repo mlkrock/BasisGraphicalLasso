@@ -3,7 +3,7 @@
 This package contains code to perform the basis graphical lasso
 analysis of:
 
->Krock, M., Kleiber, W., and Becker, S. (2021), “Nonstationary modeling with sparsity for spatial data via the basis graphical lasso,” J. Comput. Graph. Statist., 30, 375–389, ISSN931061-8600, URL https://doi.org/10.1080/10618600.2020.1811103
+>Krock, M., Kleiber, W., and Becker, S. (2021), “Nonstationary modeling with sparsity for spatial data via the basis graphical lasso,” J. Comput. Graph. Statist., 30, 375–389, ISSN 1061-8600, URL https://doi.org/10.1080/10618600.2020.1811103
 
 Please install the package with
 
