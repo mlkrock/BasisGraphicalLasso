@@ -11,6 +11,12 @@ Please install the package with
 devtools::install_github("mlkrock/BasisGraphicalLasso")
 ```
 
+This implementation relies on the `QUIC` function for solving the graphical lasso. The CRAN package is orphaned, so install QUIC with
+
+```r
+devtools::install_github("cran/QUIC")
+```
+
 The basic function is BGL, and the analysis of the minimum temperature
 dataset in the paper can be reproduced as
 
